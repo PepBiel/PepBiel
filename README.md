@@ -18,7 +18,7 @@
 - 🌍 Currently working at [Civitfun](https://www.civitfun.com/)
 - 📚 Studying **Computer Engineering**
 - 📫 How to reach me: **pepbiel2003@gmail.com**
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/josep-gabriel-fornes-reynes-304346326)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/josep-gabriel-fornes-reynes-304346326)
 
 ---
 
