@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/josep gabriel fornes reynes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josep gabriel fornes reynes" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/peepbii_10" target="blank">
+  <a href="https://instagram.com/peepbii10" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peepbii_10" height="30" width="40" />
   </a>
 </p>
