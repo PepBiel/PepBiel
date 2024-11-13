@@ -123,5 +123,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pepbiel&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="pepbiel languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pepbiel&theme=radical&hide_border=true" alt="pepbiel streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=pepbiel&theme=radical&hide_border=true" alt="pepbiel streak" />
 </p>
