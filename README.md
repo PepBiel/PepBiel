@@ -15,8 +15,9 @@
 
 ### 🔭 About Me
 
-- 🌍 Currently working at [Civitfun](https://www.civitfun.com/)
-- 📚 Studying **Computer Engineering**
+- 🌍 I previously worked at [Civitfun](https://www.civitfun.com/)
+- 🎓 Graduate in **Computer Engineering**
+- 📚 Studying a **master's degree in Artificial Intelligence at the UPM**
 - 📫 How to reach me: **pepbiel2003@gmail.com**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/josep-gabriel-fornes-reynes-304346326)
 
