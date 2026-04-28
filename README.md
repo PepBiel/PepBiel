@@ -54,21 +54,19 @@ I'm a Computer Engineer and MSc student in Artificial Intelligence with a strong
 ---
 
 ## 📈 GitHub Activity
-<!--
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=pepbiel&theme=dracula&no-frame=true&row=1&column=7" alt="trophy" /> 
-  </a> 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PepBiel&theme=radical&hide_border=true" alt="PepBiel GitHub streak" />
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=pepbiel&show_icons=true&theme=radical&hide_border=true" alt="pepbiel stats" /> 
-</p> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PepBiel&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="PepBiel top languages" />
+</p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pepbiel&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="pepbiel languages" /> 
-</p> 
--->
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pep%20Biel&theme=radical&hide_border=true" alt="pepbiel streak" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PepBiel&show_icons=true&theme=radical&hide_border=true" alt="PepBiel GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PepBiel&theme=dracula&no-frame=true&row=1&column=4" alt="PepBiel GitHub trophies" />
 </p>
