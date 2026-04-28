@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Building practical AI projects from Mallorca, Spain 🌍
+  Building practical AI projects from Madrid and Mallorca, Spain 🌍
 </p>
 
 <p align="center">
